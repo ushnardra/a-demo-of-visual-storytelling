@@ -67,5 +67,5 @@ A sample 10-slide AI-generated visual story:
 Feel free to **fork, modify, and enhance** this project! Star ⭐ it if you find it useful. Contributions are welcome!
 
 ---
-© 2025 AI-Visual-Storytelling Team
+Developed by Ushnardra Ghosh
 
