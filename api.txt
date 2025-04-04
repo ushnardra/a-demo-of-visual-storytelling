@@ -1,1 +1,1 @@
-api_key="AIzaSyCaYfT-2Ut9eTckGgBEPnLBKVGgBXErQ-g"
+paste your api keys in this way here for your own use in future :-api_key="your api key here" . 
